@@ -86,4 +86,4 @@ The Digital Thermometer project successfully measures and displays temperature u
 
 ## Author
 
-Meena
+Meena K
