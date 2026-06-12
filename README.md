@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Digital Thermometer developed using Arduino Uno, DHT22 Temperature Sensor, LCD1602 I2C Display, and a Buzzer. The system continuously monitors the surrounding temperature and displays the measured value on an LCD screen. When the temperature exceeds a predefined threshold, an alert message is displayed and the buzzer is activated.
+This project is a Digital Thermometer developed using Arduino Uno, DHT22 Temperature Sensor, LCD1602 I2C Display, and a Buzzer. The system continuously monitors the surrounding temperature and displays the measured value on an LCD screen. When the temperature exceeds a predefined threshold, an alert message is displayed and the buzzer is activated.This project was designed and tested using the Wokwi Arduino Simulator.
 
 ## Features
 
